@@ -7,6 +7,7 @@
 #include <syslog.h>
 #include <errno.h>
 #include <wiringPi.h>
+#include <string.h>
 #define LIMIT 3
 #define TIME 170
 #define SDA 8

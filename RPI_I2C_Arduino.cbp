@@ -35,6 +35,9 @@
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="src/comm.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="src/init.c">
 			<Option compilerVar="CC" />
 		</Unit>
